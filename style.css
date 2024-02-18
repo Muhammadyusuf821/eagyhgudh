@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+}
+
+.lil{
+ text-decoration: none;
+ color: white;
+ text-align: center;align-items: center;
+
+}
+
+.nav_class{
+    display: flex;
+    gap: 40px;
+margin-right: 50px;
+margin-left: 36.22px;
+    
+}
+
+.ul:hover{
+    color: pink;
+}
+
+ul{
+gap: 40px;
+display: flex;
+list-style: none;
+}
+
+ .p_class{
+    
+    margin-left: 142.7px;
+    width: 337.66px;
+    height: 77px;
+color: white;
+
+}
+.div_boos_button{
+margin-top: 100px;
+} 
+
+.maiin_class{
+ align-items: center;
+}
+
+.section_class_number2{
+    background-color: black;
+    
+}
+
+.h2_class{
+    background-image: url('./assets/IMAGE\ \(4\).png');;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Roboto';
+
+text-align: center;
+
+    width: 227px;
+    height: 46px;
+    top: 2px;
+    left: 527px;
+    color: white;
+}
+
+.buuton1{
+ 
+    margin-left: 142.7px;
+    width: 203.59px;
+height: 60px;
+background: #8DFD1B;
+color: black;
+border: none;
+}
+.buuton1:hover{
+    color: red;
+    background-color: blue;
+}
+
+
+
+
+
+.section_class{
+     display: flex;
+    background-color: black;
+    width: 1350px;
+    height: 648px;
+    top: 100px;
+    
+}
+
+
+
+.h1_class{
+    width: 480.66px;
+height: 122px;
+top: 21.38px;
+left: 76.47px;
+font-family: 'Roboto';
+font-size: 51px;
+font-weight: 700;
+line-height: 61px;
+letter-spacing: 0em;
+text-align: left;
+
+margin-top: 100px;
+margin-left: 142.7px;
+color: white;
+
+}
+.header_class{
+    background-color: #490404 ;
+    display: flex;
+    gap: 30px;
+    width: 1350px;
+height: 100px;
+text-align: center;
+align-items: center;
+justify-content: space-between;
+
+   
+}
+
+.div_logo{
+    display: flex;
+    
+}
+
+.img1{
+    margin-left: 100px;
+}
+.div_contact{
+    margin-right: 143px;
+}
